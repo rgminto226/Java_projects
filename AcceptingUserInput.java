@@ -9,7 +9,7 @@ public class AcceptingUserInput {
 		Scanner scanner = new Scanner(System.in);
 		
 		//User question 1.
-		System.out.println("What is your full name ? ");
+		System.out.println("What is your full name user ? ");
 		String name = scanner.nextLine();
 		
 		//User question 2.
